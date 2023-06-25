@@ -1,7 +1,41 @@
 # finalCapstone
 
 Final Capstone Project from HyperionDev Bootcamp.
+
+Table of Contents
+
+- [finalCapstone]()
+  * [Introduction](https://github.com/piotr-szyk/finalCapstone/edit/master/README.md#finalcapstone)
+  * [Requirements for the DS (Data Science) T21 Semantic Similarity (NLP)](#requirements-for-the-ds--data-science--t21-semantic-similarity--nlp-)
+    + [Compulsory Task 1](#compulsory-task-1)
+    + [Compulsory Task 2](#compulsory-task-2)
+  * [Requirements for the DS (Data Science) T22 Capstone Project](#requirements-for-the-ds--data-science--t22-capstone-project)
+    + [Compulsory Task 3](#compulsory-task-3)
+    + [Compulsory Task 4](#compulsory-task-4)
+
+https://github.com/piotr-szyk/finalCapstone/edit/master/README.md#finalcapstone
+- [Introduction](#compulsory-task-4)
+- ghjk
+
+[Requirements for the DS (Data Science) T21 Semantic Similarity (NLP)](https://github.com/piotr-szyk/finalCapstone/edit/master/README.md#requirements-for-the-ds-data-science-t21-semantic-similarity-nlp)
+
+[Text to display](the URL)
+
+[Text to display](the URL)
+
+## Introduction <a name="introduction"></a>
 This project demonstrates an understanding of Natural Language Processing (NLP) and its applications.
+It is divided into two sections: Task 21 and Task 22. The first section focuses on building a system that
+can recommend what to watch next based on the word vector similarity of the description of the movies.
+The second part is descriptive and focuses on natural language processing applications, such as text 
+classification and sentiment analysis.
+
+
+
+
+
+
+
 
 ## Requirements for the DS (Data Science) T21 Semantic Similarity (NLP)
 ### Compulsory Task 1
