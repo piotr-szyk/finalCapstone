@@ -13,7 +13,7 @@ Table of Contents
   * [Requirements for the DS (Data Science) T22 Capstone Project](#requirements-for-the-ds-data-science-t22-capstone-project)
     + [Compulsory Task 3](#compulsory-task-3)
     + [Compulsory Task 4](#compulsory-task-4)
-    + [Usage](#usage)
+    + [Usage](#usage-1)
 
 
 
