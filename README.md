@@ -69,7 +69,6 @@ Type the following commands in the command line to install spaCy:
 pip3 install spacy
 ```
 
-
 Please keep in mind that Python 2 is now deprecated. If your system does not
 recognise 'python' in the next step or if you have a macOS, please use 'python3'.
 To confirm that spacy is properly installed, get into the Python console by typing
@@ -111,6 +110,15 @@ If you do not have this model yet please type the line below in your command pro
 ```bash
 python -m spacy download en_core_web_md
 ```
+
+Example output for the `semantic.py`:
+
+![example_output_semantic](https://github.com/piotr-szyk/finalCapstone/assets/74630591/70b54d74-06f2-4577-8b56-7b7246d6beef)
+
+
+Example output for the `which_next.py`:
+
+![example_output_watch_next](https://github.com/piotr-szyk/finalCapstone/assets/74630591/3b49b5d8-82c2-4dcf-ade1-15c894077c52)
 
 
 ## Requirements for the DS (Data Science) T22 Capstone Project
