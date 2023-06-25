@@ -5,7 +5,7 @@ Final Capstone Project from HyperionDev Bootcamp.
 Table of Contents
 
 - [finalCapstone]()
-  * [Introduction](https://github.com/piotr-szyk/finalCapstone/edit/master/README.md#finalcapstone)
+  * [Introduction](https://github.com/piotr-szyk/finalCapstone/tree/master/README.md#finalcapstone)
   * [Requirements for the DS (Data Science) T21 Semantic Similarity (NLP)](#requirements-for-the-ds--data-science--t21-semantic-similarity--nlp-)
     + [Compulsory Task 1](#compulsory-task-1)
     + [Compulsory Task 2](#compulsory-task-2)
