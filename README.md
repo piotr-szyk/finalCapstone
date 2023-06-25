@@ -9,6 +9,7 @@ Table of Contents
   * [Requirements for the DS (Data Science) T21 Semantic Similarity (NLP)](#requirements-for-the-ds-data-science-t21-semantic-similarity-nlp)
     + [Compulsory Task 1](#compulsory-task-1)
     + [Compulsory Task 2](#compulsory-task-2)
+    + [Usage](#usage)
   * [Requirements for the DS (Data Science) T22 Capstone Project](#requirements-for-the-ds-data-science-t22-capstone-project)
     + [Compulsory Task 3](#compulsory-task-3)
     + [Compulsory Task 4](#compulsory-task-4)
@@ -50,6 +51,35 @@ title of the most similar movie.
 
 Note: Please make sure when running `watch_next.py`, that the `movies.txt` file is in the same folder.
 
+### Usage
+
+In order to use the `semantic.py` and `watch_next.py` programs, please make sure you have the SpaCy library
+installed as well as the specific language models. Please follow the instructions to add SpaCy and english 
+language models.
+
+SpaCy is a Python NLP library specifically designed with the goal of being a useful
+library for implementing production-ready systems. It is particularly fast and
+intuitive, making it a top contender for beginners in NLP. Before doing anything,
+you need to have spaCy installed, as well as its English language model.
+Type the following commands in the command line to install spaCy:
+
+
+```bash
+pip3 install spacy
+```
+
+
+Please keep in mind that Python 2 is now deprecated. If your system does not
+recognise 'python' in the next step or if you have a macOS, please use 'python3'.
+To confirm that spacy is properly installed, get into the Python console by typing
+the following:
+```python
+# get into python console
+python
+import spacy
+```
+
+If you receive no error, this means that spaCy was installed correctly!
 
 ## Requirements for the DS (Data Science) T22 Capstone Project
 
