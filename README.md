@@ -13,6 +13,7 @@ Table of Contents
   * [Requirements for the DS (Data Science) T22 Capstone Project](#requirements-for-the-ds-data-science-t22-capstone-project)
     + [Compulsory Task 3](#compulsory-task-3)
     + [Compulsory Task 4](#compulsory-task-4)
+    + [Usage](#usage)
 
 
 
@@ -95,3 +96,6 @@ If you receive no error, this means that spaCy was installed correctly!
 - Read up on any innovative technology using NLP (by companies such as Google or IBM, for instance) and write a brief summary about the technology, what it achieves/does, and an overview of how it works (250 - 500 words).
 To take an example, you may have noticed Gmail’s auto-response suggestions on your incoming emails. If I send an email to your Gmail address asking for an appointment, on opening the mail you would notice Gmail’s automatically suggested response options such as “Yes, that works for me” and “Sorry, I’m not available at that time.”
 - Save your answer in a file called `nlp_2.pdf`.
+
+### Usage
+Just read `nlp_1.pdf` and `nlp_2.pdf` files!
